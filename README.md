@@ -17,7 +17,7 @@
 - 💡 Turning ideas into polished experiences
 - 📚 Balancing Class 12 while shipping projects
 - 🔥 Learning in public, building in real life
-
+  
 ---
 
 ## 🌱 Currently Building
@@ -27,6 +27,8 @@
 - 🧠 **AI SupportDesk** – AI-powered Support System
 - 📚 **StudentHub** – Productivity Platform for Students
 - ✨ **Personal Portfolio**
+- 🚖 **Saarthi Travels Agency** - A Ai-Powered Travel Agency
+- 📉 **Fx Knights Trading Journal**- As A Forex Trader I Want Some Journal Software So Here It Is 
 
 ---
 
@@ -35,6 +37,7 @@
 ### Languages
 - Python
 - SQL
+- Expert In HTML(Vibe Coding ALso Expert)
 
 ### Tools & Platforms
 - Git & GitHub
