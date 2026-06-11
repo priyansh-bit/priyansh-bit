@@ -52,7 +52,7 @@
 - Automation
 - Product Design
 - UI/UX
-
+- Stock Market Analyst (Part Time Tarder)
 ---
 
 ## 🎯 2026 Goals
